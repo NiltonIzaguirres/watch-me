@@ -3,7 +3,7 @@
 </h1>
 
 <h1 align="center">
-    <img alt="WatchMe Preview" src="https://media.discordapp.net/attachments/880027077884137492/880041998814412810/ezgif.com-gif-maker.gif" />
+    <img alt="WatchMe Preview" src="https://extras.niltonizaguirres.com/assets/projects/watch-me.png" />
 </h1>
 
 
@@ -96,11 +96,11 @@ The following tools were used in the construction of the project:
  <br />
 
 <a href="https://www.linkedin.com/in/nilton-izaguirres">
-  <code><img alt="My linkedin" width="28" src="https://media.discordapp.net/attachments/880027077884137492/938595053176225842/Linkedin.png" /></code>
+  <code><img alt="My linkedin" width="28" src="https://extras.niltonizaguirres.com/assets/projects/linkedin.png" /></code>
 </a>
 
 <a href="mailto:niltonizaguirres2003@gmail.com">
-  <code><img alt="My e-mail" width="28" src="https://cdn.discordapp.com/attachments/880027077884137492/938595052756803594/gmail.png" /></code>
+  <code><img alt="My e-mail" width="28" src="https://extras.niltonizaguirres.com/assets/projects/mail.png" /></code>
 </a>
 
 
